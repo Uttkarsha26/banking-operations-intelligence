@@ -1,0 +1,2 @@
+model,validation_examples,accuracy,macro_f1,weighted_f1,log_loss,training_seconds
+Calibrated Linear SVM,2001,0.8775612193903048,0.8795800327104006,0.8776781049084003,0.5644756047374393,1.9649150999612175

@@ -1,0 +1,68 @@
+
+[
+  {
+    "question": "Someone stole my bank card. What should I do?",
+    "expected_document_id": "faq_002"
+  },
+  {
+    "question": "I do not recognize a card payment. How do I report it?",
+    "expected_document_id": "rbi_001"
+  },
+  {
+    "question": "How do I complain if my bank does not resolve my grievance?",
+    "expected_document_id": "rbi_002"
+  },
+  {
+    "question": "My bank transfer has not arrived. What should I check?",
+    "expected_document_id": "faq_004"
+  },
+  {
+    "question": "My refund is still missing. What can I do?",
+    "expected_document_id": "faq_006"
+  },
+  {
+    "question": "How can I verify my identity securely?",
+    "expected_document_id": "faq_005"
+  },
+  {
+    "question": "I am still waiting for my replacement card delivery.",
+    "expected_document_id": "faq_001"
+  },
+  {
+    "question": "What should I do about an unauthorized electronic transaction?",
+    "expected_document_id": "rbi_001"
+  },
+  
+  {
+    "question": "Where can I check the expected arrival date for my bank card?",
+    "expected_document_id": "faq_001"
+  },
+  {
+    "question": "My debit card was stolen. How should I report it?",
+    "expected_document_id": "faq_002"
+  },
+  {
+    "question": "What should a bank do after a customer reports an unauthorized electronic transaction?",
+    "expected_document_id": "rbi_001"
+  },
+  {
+    "question": "A bank transfer is still pending. Where can I check its status?",
+    "expected_document_id": "faq_004"
+  },
+  {
+    "question": "What should I do if a merchant says a refund was issued but I cannot see it?",
+    "expected_document_id": "faq_006"
+  },
+  {
+    "question": "What is the RBI mechanism for eligible complaints against regulated financial entities?",
+    "expected_document_id": "rbi_002"
+  },
+  {
+    "question": "The bank app cannot verify my identity. What is the safe next step?",
+    "expected_document_id": "faq_005"
+  },
+  {
+    "question": "How can I report a suspicious card charge through an official channel?",
+    "expected_document_id": "faq_003"
+  }
+]

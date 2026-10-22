@@ -1,0 +1,64 @@
+[
+  {
+    "id": "faq_001",
+    "title": "Card delivery delays",
+    "source": "Illustrative banking FAQ - not an official policy",
+    "topic": "card_arrival",
+    "content": "If a customer is waiting for a bank card, the appropriate next step is to check the card order status and the estimated delivery date through the bank's official app or support channel. If the expected delivery date has passed, contact the bank's support team to investigate the delay."
+  },
+  {
+    "id": "faq_002",
+    "title": "Lost or stolen card",
+    "source": "Illustrative banking FAQ - not an official policy",
+    "topic": "lost_or_stolen_card",
+    "content": "If a bank card is lost or stolen, the customer should promptly use the bank's official app or verified support channel to lock or freeze the card if that feature is available, and report the incident to the bank. The customer should follow the bank's official instructions for replacement and review any unfamiliar transactions."
+  },
+  {
+    "id": "faq_003",
+    "title": "Unrecognized card payment",
+    "source": "Illustrative banking FAQ - not an official policy",
+    "topic": "card_payment_not_recognised",
+    "content": "If a customer does not recognize a card payment, they should review the transaction details and contact the bank through an official channel to report the transaction. If the card may be compromised, they should ask the bank about immediately securing it. Dispute procedures and time limits depend on the bank and applicable rules."
+  },
+  {
+    "id": "faq_004",
+    "title": "Pending bank transfer",
+    "source": "Illustrative banking FAQ - not an official policy",
+    "topic": "pending_transfer",
+    "content": "If a bank transfer is pending, the customer should check the transfer status, date, and any reference number in the official banking app. Processing times can vary by transfer type, bank, and destination. If the transfer remains pending beyond the stated processing period, contact the bank through a verified support channel."
+  },
+  {
+    "id": "faq_005",
+    "title": "Identity verification",
+    "source": "Illustrative banking FAQ - not an official policy",
+    "topic": "verify_my_identity",
+    "content": "If identity verification is required, the customer should follow the instructions provided in the bank's official app or verified website. They should not send passwords, one-time passcodes, or full payment credentials to unverified contacts. If verification fails repeatedly, contact official support."
+  },
+  {
+    "id": "faq_006",
+    "title": "Refund not received",
+    "source": "Illustrative banking FAQ - not an official policy",
+    "topic": "Refund_not_showing_up",
+    "content": "If an expected refund has not appeared, the customer should check the merchant's refund confirmation, the original payment method, and the bank's stated processing time. If the refund remains missing after that period, contact the merchant or bank using verified support channels and keep relevant transaction references."
+  },
+  {
+    "id": "rbi_001",
+    "title": "Reporting unauthorized electronic banking transactions",
+    "source": "Reserve Bank of India - Customer Protection Circular, 6 July 2017",
+    "source_url": "https://www.rbi.org.in/commonman/Upload/English/Notification/PDFs/NOTI1506072017.PDF",
+    "topic": "card_payment_not_recognised",
+    "content": "The Reserve Bank of India directs covered banks to provide channels for reporting unauthorized electronic banking transactions and loss or theft of payment instruments. On receiving a report of an unauthorized transaction, banks must take immediate steps to prevent further unauthorized transactions. Customer liability depends on the circumstances and applicable reporting timelines; customers should contact their bank promptly through an official channel.",
+    "source_type": "official_regulatory_circular",
+    "verified_on": "2026-10-21"
+  },
+  {
+    "id": "rbi_002",
+    "title": "RBI Integrated Ombudsman Scheme 2026",
+    "source": "Reserve Bank of India - Integrated Ombudsman Scheme FAQ, updated 1 July 2026",
+    "source_url": "https://old.rbi.org.in/commonman/english/scripts/faqs.aspx?id=3407",
+    "topic": "banking_complaint_escalation",
+    "content": "The Reserve Bank - Integrated Ombudsman Scheme 2026 provides a cost-free grievance redress mechanism for eligible complaints involving deficiencies in services by regulated entities covered by the scheme. The scheme came into effect on 1 July 2026 and replaced the 2021 scheme for new applicable matters. Customers should consult the current RBI guidance to determine eligibility and the appropriate complaint process.",
+    "source_type": "official_regulatory_faq",
+    "verified_on": "2026-10-21"
+  }
+]

@@ -1,0 +1,186 @@
+{
+  "metrics": {
+    "evaluation_cases": 16,
+    "hit_rate_at_1": 0.875,
+    "hit_rate_at_3": 1.0,
+    "mean_reciprocal_rank": 0.9375
+  },
+  "results": [
+    {
+      "question": "Someone stole my bank card. What should I do?",
+      "expected_document_id": "faq_002",
+      "retrieved_document_ids": [
+        "faq_002",
+        "rbi_001",
+        "faq_003"
+      ],
+      "hit_at_1": true,
+      "hit_at_3": true
+    },
+    {
+      "question": "I do not recognize a card payment. How do I report it?",
+      "expected_document_id": "rbi_001",
+      "retrieved_document_ids": [
+        "faq_003",
+        "rbi_001",
+        "faq_006"
+      ],
+      "hit_at_1": false,
+      "hit_at_3": true
+    },
+    {
+      "question": "How do I complain if my bank does not resolve my grievance?",
+      "expected_document_id": "rbi_002",
+      "retrieved_document_ids": [
+        "rbi_002",
+        "rbi_001",
+        "faq_003"
+      ],
+      "hit_at_1": true,
+      "hit_at_3": true
+    },
+    {
+      "question": "My bank transfer has not arrived. What should I check?",
+      "expected_document_id": "faq_004",
+      "retrieved_document_ids": [
+        "faq_004",
+        "faq_006",
+        "faq_005"
+      ],
+      "hit_at_1": true,
+      "hit_at_3": true
+    },
+    {
+      "question": "My refund is still missing. What can I do?",
+      "expected_document_id": "faq_006",
+      "retrieved_document_ids": [
+        "faq_006",
+        "faq_003",
+        "faq_002"
+      ],
+      "hit_at_1": true,
+      "hit_at_3": true
+    },
+    {
+      "question": "How can I verify my identity securely?",
+      "expected_document_id": "faq_005",
+      "retrieved_document_ids": [
+        "faq_005",
+        "faq_003",
+        "rbi_001"
+      ],
+      "hit_at_1": true,
+      "hit_at_3": true
+    },
+    {
+      "question": "I am still waiting for my replacement card delivery.",
+      "expected_document_id": "faq_001",
+      "retrieved_document_ids": [
+        "faq_001",
+        "faq_002",
+        "faq_003"
+      ],
+      "hit_at_1": true,
+      "hit_at_3": true
+    },
+    {
+      "question": "What should I do about an unauthorized electronic transaction?",
+      "expected_document_id": "rbi_001",
+      "retrieved_document_ids": [
+        "rbi_001",
+        "faq_003",
+        "faq_005"
+      ],
+      "hit_at_1": true,
+      "hit_at_3": true
+    },
+    {
+      "question": "Where can I check the expected arrival date for my bank card?",
+      "expected_document_id": "faq_001",
+      "retrieved_document_ids": [
+        "faq_001",
+        "faq_004",
+        "rbi_001"
+      ],
+      "hit_at_1": true,
+      "hit_at_3": true
+    },
+    {
+      "question": "My debit card was stolen. How should I report it?",
+      "expected_document_id": "faq_002",
+      "retrieved_document_ids": [
+        "faq_002",
+        "rbi_001",
+        "faq_003"
+      ],
+      "hit_at_1": true,
+      "hit_at_3": true
+    },
+    {
+      "question": "What should a bank do after a customer reports an unauthorized electronic transaction?",
+      "expected_document_id": "rbi_001",
+      "retrieved_document_ids": [
+        "rbi_001",
+        "faq_003",
+        "faq_005"
+      ],
+      "hit_at_1": true,
+      "hit_at_3": true
+    },
+    {
+      "question": "A bank transfer is still pending. Where can I check its status?",
+      "expected_document_id": "faq_004",
+      "retrieved_document_ids": [
+        "faq_004",
+        "faq_001",
+        "faq_006"
+      ],
+      "hit_at_1": true,
+      "hit_at_3": true
+    },
+    {
+      "question": "What should I do if a merchant says a refund was issued but I cannot see it?",
+      "expected_document_id": "faq_006",
+      "retrieved_document_ids": [
+        "faq_006",
+        "faq_003",
+        "rbi_001"
+      ],
+      "hit_at_1": true,
+      "hit_at_3": true
+    },
+    {
+      "question": "What is the RBI mechanism for eligible complaints against regulated financial entities?",
+      "expected_document_id": "rbi_002",
+      "retrieved_document_ids": [
+        "rbi_002",
+        "rbi_001",
+        "faq_003"
+      ],
+      "hit_at_1": true,
+      "hit_at_3": true
+    },
+    {
+      "question": "The bank app cannot verify my identity. What is the safe next step?",
+      "expected_document_id": "faq_005",
+      "retrieved_document_ids": [
+        "faq_005",
+        "rbi_001",
+        "faq_003"
+      ],
+      "hit_at_1": true,
+      "hit_at_3": true
+    },
+    {
+      "question": "How can I report a suspicious card charge through an official channel?",
+      "expected_document_id": "faq_003",
+      "retrieved_document_ids": [
+        "rbi_001",
+        "faq_003",
+        "faq_002"
+      ],
+      "hit_at_1": false,
+      "hit_at_3": true
+    }
+  ]
+}
